@@ -1,2 +1,3 @@
 # Mon portfolio
-ce projet est un mini-portfolio pour apprendre Git et GitHub.
+Ce projet est un mini-portfolio pour apprendre Git et GitHub
+
